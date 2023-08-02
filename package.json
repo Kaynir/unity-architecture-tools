@@ -1,0 +1,15 @@
+{
+  "name": "com.kaynir.architecture-tools",
+  "version": "1.0.0",
+  "displayName": "Architecture Tools",
+  "description": "A combined package of known tools to build game architecture.",
+  "unity": "2022.3",
+  "keywords": [
+    "zenject, extenject, unirx, unitask"
+  ],
+  "author": {
+    "name": "Denis Znov",
+    "email": "kaynir.games@gmail.com",
+    "url": "https://github.com/Kaynir/architecture-tools"
+  }
+}
